@@ -46,7 +46,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="UPDATE_CHANGES_POLICY" value="SHELVE" />
   </component>
   <component name="ProjectId" id="1rxsbKrhfyg2pd52S0hpoCNXrxY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -115,6 +115,17 @@
       <updated>1619929145726</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/co_com_choucair_certification_proyectobase$RunnerTags.ic" NAME="RunnerTags Coverage Results" MODIFIED="1620074848094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
